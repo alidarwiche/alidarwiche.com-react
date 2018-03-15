@@ -13,3 +13,8 @@
   font-size: 1.5em;
   float: left;
 }
+
+.NavBar-dropdown {
+  font-size: 1.5em;
+  float: right;
+}
